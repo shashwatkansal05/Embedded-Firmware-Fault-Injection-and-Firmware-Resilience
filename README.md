@@ -1,4 +1,5 @@
 📌 Project Overview
+
 The goal of this project is to move beyond functional "happy path" programming and explore Functional Safety. By simulating a real-time environment, I can analyze how a system identifies and handles faults without requiring physical hardware in the early stages of development.
 ---
 Key Features:
